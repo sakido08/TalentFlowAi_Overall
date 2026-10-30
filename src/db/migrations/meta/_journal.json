@@ -1,0 +1,125 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790787135103,
+      "tag": "0000_create-schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790787140004,
+      "tag": "0001_auth-trigger-and-rls",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790852109419,
+      "tag": "0002_add-profile-job-title",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790852112834,
+      "tag": "0003_signup-profile-fields-trigger",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791433405346,
+      "tag": "0004_recruiter-prereqs",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1791433422149,
+      "tag": "0005_recruiter-prereqs-rls-trigger",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1791604716377,
+      "tag": "0006_crazy_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791729552229,
+      "tag": "0007_curvy_warstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1791729824524,
+      "tag": "0008_resume_pdf_only_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1791729832893,
+      "tag": "0009_flimsy_sheva_callister",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1791910653162,
+      "tag": "0010_talented_the_initiative",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1791910664315,
+      "tag": "0011_resume-files-rls",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1791912809994,
+      "tag": "0012_volatile_zodiak",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1791913942215,
+      "tag": "0013_tranquil_lucky_pierre",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1791914255057,
+      "tag": "0014_gigantic_darwin",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1792067461515,
+      "tag": "0015_clammy_bulldozer",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1792076634468,
+      "tag": "0016_skinny_yellow_claw",
+      "breakpoints": true
+    }
+  ]
+}
